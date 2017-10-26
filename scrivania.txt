@@ -3,3 +3,4 @@
 3. Fine modellazione gamba 
 4. copia gambe
 5. inizio ripiano
+6. Fine ripiano
